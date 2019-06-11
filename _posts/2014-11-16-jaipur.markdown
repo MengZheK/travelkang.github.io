@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Jaipur"
+date:   2014-11-16 09:00:00
+categories: india rajasthan jaipur
+location: Jaipur, India
+tags: jaipur rajasthan india
+---
+
+In a state crowded with strongholds big and small, Amer fort of Jaipur is without a doubt the crown jewel. Its walls erupt from steep crags and march tirelessly through the surrounding hills, sparing none their presence. An elephant of questionable treatment carts patrons up the punishing climb to the forts internal complex. Though it is bursting with visitors from near and far, the vast grounds treat any guest with a little perseverance to short moments of solitude in which to take in the spectacular sunset over the city below.
+
+Jaipur is the capital of Rajasthan, home to over 6 million people and the renown pink city: a neighborhood constructed entirely of pink stone. It is ingeniously named, for it looks just as pink would look if it was brown. Muddled in with the marketplaces and city gates is Jantar Mantar, an eclectic collection of astronomical instruments constructed in the 1700s by Jai Singh II, a king of the time whom harbored a great love of the sciences. While impressive in size, they remained cryptic as to how one might use them to measure anything astronomical. Instead they provided me with a measurement of my own ignorance, which was considerable.
+
+At Jaigarh fort, visitors peruse the once thriving cannon forge. It was here that Jaivana was built, at the time the worlds largest wheel-mounted cannon. Evidence of a medieval arms race, it rivals a bus in size and was fired just once with half of the designed gun-powder. The cannonball flew 35 kilometers afield, an impressive distance that confirmed how utterly useless it would be in an actual conflict.
+
+<div class="post-image">
+	<a href="/photography/2014-11-16-jaipur/8-full.jpg" target="_blank" title="The brilliant facade of the Hawa Mahal, built so women of the royal household could peer down at the streets below and remain unseen. A prime example of Jaipur's iconic 'pink'"><img src="/photography/2014-11-16-jaipur/8.jpg" alt="The brilliant facade of the Hawa Mahal, built so women of the royal household could peer down at the streets below and remain unseen. A prime example of Jaipur's iconic 'pink'"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-16-jaipur/9-full.jpg" target="_blank" title="Jal Mahal, a water palace in the middle of Man Sagar lake"><img src="/photography/2014-11-16-jaipur/9.jpg" alt="Jal Mahal, a water palace in the middle of Man Sagar lake"></a>
+	<a href="/photography/2014-11-16-jaipur/10-full.jpg" target="_blank" title="A thali (indian set meal) to conquer them all is served at Rainbow restaurant in the Old City of Jaipur"><img src="/photography/2014-11-16-jaipur/10.jpg" alt="A thali (indian set meal) to conquer them all is served at Rainbow restaurant in the Old City of Jaipur"></a>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-11-16-jaipur/3-full.jpg" target="_blank" title="Internal courtyard of the Amer fort"><img src="/photography/2014-11-16-jaipur/3.jpg" alt="Internal courtyard of the Amer fort"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-16-jaipur/2-full.jpg" target="_blank" title="Outer gardens at the base of Amer fort"><img src="/photography/2014-11-16-jaipur/2.jpg" alt="Outer gardens at the base of Amer fort"></a>
+	<a href="/photography/2014-11-16-jaipur/4-full.jpg" target="_blank" title="Visitors gaze out at the outer walls of Amer from atop Jaigarh fort"><img src="/photography/2014-11-16-jaipur/4.jpg" alt="Visitors gaze out at the outer walls of Amer from atop Jaigarh fort"></a>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-11-16-jaipur/1-full.jpg" target="_blank" title="The colourful Rajasthani state flag blows in the wind above Jaigarh fort's watchtower"><img src="/photography/2014-11-16-jaipur/1.jpg" alt="The colourful Rajasthani state flag blows in the wind above Jaigarh fort's watchtower"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-16-jaipur/6-full.jpg" target="_blank" title="A Jeep employed to scale the heights of Jaigarh fort sits in the afternoon sun"><img src="/photography/2014-11-16-jaipur/6.jpg" alt="A Jeep employed to scale the heights of Jaigarh fort sits in the afternoon sun"></a>
+	<a href="/photography/2014-11-16-jaipur/5-full.jpg" target="_blank" title="Sunlight floods through the exquisite carvings high in the Amer fort palace"><img src="/photography/2014-11-16-jaipur/5.jpg" alt="Sunlight floods through the exquisite carvings high in the Amer fort palace"></a>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-11-16-jaipur/7-full.jpg" target="_blank" title="Jaivana, at the time the worlds largest wheel-mounted cannon, sits at the topmost lookout of Jaigarh fort"><img src="/photography/2014-11-16-jaipur/7.jpg" alt="Jaivana, at the time the worlds largest wheel-mounted cannon, sits at the topmost lookout of Jaigarh fort"></a>
+</div>

@@ -1,0 +1,41 @@
+{
+  "name": "rowanoulton.github.io",
+  "version": "1.0.0",
+  "description": "Personal blog of Rowan Oulton",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "concurrent-transform": "^1.0.0",
+    "copy-paste": "^1.1.4",
+    "extend": "^3.0.0",
+    "filepath": "^1.1.0",
+    "filesize": "^3.1.4",
+    "get-folder-size": "^1.0.0",
+    "gulp": "^3.9.0",
+    "gulp-ignore": "^2.0.1",
+    "gulp-image-resize": "^0.7.1",
+    "gulp-param": "^0.6.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sharp": "0.1.0",
+    "gulp-sort": "^1.1.1",
+    "image-size": "^0.4.0",
+    "merge-stream": "^1.0.0",
+    "mkdirp": "^0.5.1",
+    "node-notifier": "^4.4.0",
+    "require-dir": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowanoulton/rowanoulton.github.io.git"
+  },
+  "author": "Rowan Oulton <rowan.oulton@gmail.com> (http://github.com/rowanoulton)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rowanoulton/rowanoulton.github.io/issues"
+  },
+  "homepage": "https://github.com/rowanoulton/rowanoulton.github.io#readme"
+}

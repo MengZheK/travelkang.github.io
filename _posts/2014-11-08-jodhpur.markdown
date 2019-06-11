@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Jodhpur"
+date:   2014-11-09 09:00:00
+categories: jodhpur rajasthan india
+location: Jodhpur, India
+tags: jodhpur rajasthan india
+---
+
+Feeling pretty equanimous from ten days of silent meditation, I arrived into Jodhpurs surging clocktower square prepared for reentry into the cultural onslaught of India. The first glimpse of Mehrangarh fort was jaw-dropping. Emerging seamlessly from the bedrock below, it towers over the blue city assuring all who gaze up at it that this is a fort that is not to be fucked with. I could almost taste the resignation an invading army might feel after first sight of it.
+
+Sitting in a strategic trade route near the center of the arid state of Rajasthan, industry has blossomed in Jodhpur over the past 20 years. From textiles & furniture to the discovery of oil nearby, the blue city has begun to suffer from its own success. Explosive population growth has spilled out into the surrounding desert and locals complain they’ve traded a lack of work for a lack of oxygen. This much is clear to see in the thick, brown haze hugging the horizon. It seems begrudgingly accepted that this is the face of progress in India.
+
+Despite rapid change, the blue city has retained its charm. While originally the symbol of a Brahmins home, blue house paint is now employed by residents of all persuasions and the effect makes for a skyline colourful like no other. A labyrinth of streets and alleyways provide a distinctly Indian experience that must be walked to be felt while Mehrangarh fort attracts a throng of visitors with its exquisite interior palace, fierce battlements and sheer scale.
+
+<div class="post-image">
+	<a href="/photography/2014-11-09-jodhpur/1-full.jpg" target="_blank" title="A wall of Mehrangarh fort juts out infront of the hazy blue city at sunrise"><img src="/photography/2014-11-09-jodhpur/1.jpg" alt="A wall of Mehrangarh fort juts out infront of the hazy blue city at sunrise"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-09-jodhpur/2-full.jpg" target="_blank" title="Antiquated cannons stand atop Mehrangarh fort while the Umaid Bhawan Palace (still operated by the royal family) stands in the distance"><img src="/photography/2014-11-09-jodhpur/2.jpg" alt="Antiquated cannons stand atop Mehrangarh fort while the Umaid Bhawan Palace (still operated by the royal family) stands in the distance"></a>
+	<a href="/photography/2014-11-09-jodhpur/3-full.jpg" target="_blank" title="A view of the Chamunda Devi, a Hindu temple inside Mehrangarh fort"><img src="/photography/2014-11-09-jodhpur/3.jpg" alt="A view of the Chamunda Devi, a Hindu temple inside Mehrangarh fort"></a>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-11-09-jodhpur/4-full.jpg" target="_blank" title="Sun rises through the haze over Jodhpur. As seen from the fort entrance"><img src="/photography/2014-11-09-jodhpur/4.jpg" alt="Sun rises through the haze over Jodhpur. As seen from the fort entrance"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-09-jodhpur/5-full.jpg" target="_blank" title="We found these three friendly characters practicing yoga on a hill high above the fort at sunrise. The man furthest to the right proudly informed us that he held the title of Jodhpur strongman in 2012"><img src="/photography/2014-11-09-jodhpur/5.jpg" alt="We found these three friendly characters practicing yoga on a hill high above the fort at sunrise. The man furthest to the right proudly informed us that he held the title of Jodhpur strongman in 2012"></a>
+	<a href="/photography/2014-11-09-jodhpur/6-full.jpg" target="_blank" title="The rear side of Mehrangarh fort at sunrise"><img src="/photography/2014-11-09-jodhpur/6.jpg" alt="The rear side of Mehrangarh fort at sunrise"></a>
+	<p class="post-image-caption">
+		On the left, we found these three friendly characters practicing yoga on a hill high above the fort at sunrise. The man furthest to the right proudly informed us that he held the title of "Jodhpur strongman" in 2012. On the right, the rear side of Mehrangarh fort at sunrise.
+	</p>
+</div>

@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Madurai"
+date:   2014-09-21 14:02:00
+categories: india madurai
+location: Madurai, India
+tags: madurai india
+---
+
+I barely stepped foot in Madurai before I had to leave again. To make matters worse, the steps I did take were plagued by an almost total loss of leg function owing to the previous days hike.
+
+Madurai is home to perhaps the largest temple in India, the Meenakshi Amman. Thousands of granite pillars hold over 45 acres of inner & outer sanctums together. As the faithful pray to an incalculable number of shrines within, a festive elephant plucks donations from the hands of visitors, tapping them on their heads as a blessing afterward.
+
+Each night the central statue of Siva is delivered in a ceremonial procession from his sanctuary to his wife Meenakshi's chambers. There they rest together until dawn, whereupon the procession is reversed. Tireless, this ritual continues day in, day out, matched in perseverance only by the horde of tourists following in its wake, camera phones waving in the air. Incapacitated or not, I do my best to hobble along with them.
+
+<div class="post-image">
+	<a href="/photography/2014-09-21-madurai/1-full.jpg" target="_blank" title="The West Tower of the Meenakshi Amman temple stands tall above the city at sunset"><img src="/photography/2014-09-21-madurai/1.jpg" alt="The West Tower of the Meenakshi Amman temple stands tall above the city at sunset" /></a>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-09-21-madurai/2-full.jpg" target="_blank" title="The Thirumalai Nayak Palace, a 17th century palace designed by an Italian architect"><img src="/photography/2014-09-21-madurai/2.jpg" alt="The Thirumalai Nayak Palace, a 17th century palace designed by an Italian architect" /></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-09-21-madurai/3-full.jpg" target="_blank" title="A familiar indian scene: Cattle rummaging for food in front of a bookstore on a dusty back street"><img src="/photography/2014-09-21-madurai/3.jpg" alt="A familiar indian scene: Cattle rummaging for food in front of a bookstore on a dusty back street" /></a>
+	<a href="/photography/2014-09-21-madurai/4-full.jpg" target="_blank" title="The entrance to the Theosophical Society Madras Library, a place to seek some peace among the choked city streets"><img src="/photography/2014-09-21-madurai/4.jpg" alt="The entrance to the Theosophical Society Madras Library, a place to seek some peace among the choked city streets" /></a>
+</div>

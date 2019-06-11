@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# System
+.DS_Store
+photography/.DS_Store
+
+# Gulp
+node_modules/

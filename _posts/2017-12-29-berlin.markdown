@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Berlin"
+date:   2017-12-29 09:00:00
+categories: germany berlin
+location: Berlin, Germany
+tags: berlin germany
+---
+
+It's been 2 years since we left Germany now and I'm amazed we only spent 9 months there. We've been in the states twice as long now and yet our time in Berlin had a far greater impact on us both. My impression of Germany was that of a country doing things right, of people who give a shit, and who expect each other to behave like adults and — more importantly — _do_.
+
+The city is the closest thing you can get to a metropolitan utopia, too: plentiful green space, uniform density, intensely accessible, affordable, and beautiful all the while. It was easily the best city I have ever lived in, but it can be a hard place too. Ultimately we left, but not without a lot of good memories.
+
+<div class="post-image">
+	<img alt="Bergmankiez" width="750" height="1001" srcset="/photography/2017-12-29-berlin/1.jpg 1x, /photography/2017-12-29-berlin/1@2x.jpg 2x, /photography/2017-12-29-berlin/1@3x.jpg 3x" />
+    <p class="post-image-caption">Bergmankiez, the corner of Kreuzberg we lived in</p>
+</div>
+
+We lived in Bergmankiez in an apartment that was dark and viewless but nevertheless gorgeous in it's own way. This was to be the first (and probably the last) time I ever lived on a cobbled street.
+
+<div class="post-image post-image--split">
+	<img alt="Köpenicker Straße" width="365" height="487" srcset="/photography/2017-12-29-berlin/2.jpg 1x, /photography/2017-12-29-berlin/2@2x.jpg 2x, /photography/2017-12-29-berlin/2@3x.jpg 3x" />
+	<img alt="Piano keys" width="365" height="487" srcset="/photography/2017-12-29-berlin/3.jpg 1x, /photography/2017-12-29-berlin/3@2x.jpg 2x, /photography/2017-12-29-berlin/3@3x.jpg 3x" />
+    <p class="post-image-caption">Kopenicker Strasse</p>
+</div>
+
+<div class="post-image">
+	<img alt="The Soviet War Memorial in Treptower Park" width="750" height="999" srcset="/photography/2017-12-29-berlin/4.jpg 1x, /photography/2017-12-29-berlin/4@2x.jpg 2x, /photography/2017-12-29-berlin/4@3x.jpg 3x" />
+    <p class="post-image-caption">The Soviet War Memorial in Treptower Park</p>
+</div>
+
+After the Second World War, the Soviets built three memorials in Berlin to inter &amp; commemorate their countrymen who died in Berlin. The city was heavy with this sort of history.
+
+<div class="post-image">
+	<img alt="The Field Station Berlin, an abandoned American spy station in Teufelsberg" width="750" height="1000" srcset="/photography/2017-12-29-berlin/5.jpg 1x, /photography/2017-12-29-berlin/5@2x.jpg 2x, /photography/2017-12-29-berlin/5@3x.jpg 3x" />
+    <p class="post-image-caption">The Field Station Berlin, an abandoned American spy station in Teufelsberg</p>
+</div>
+
+Teufelsberg is the only hill of any substance in Berlin, and it was made from the rubble of the Second World War. On top of it there sits an abandoned spy station the Americans used to listen in on Soviet communications. We were told there were guided tours of the facility, but everything was locked down when we visited.
+
+<div class="post-image post-image--split">
+	<img alt="Grunewald" width="365" height="487" srcset="/photography/2017-12-29-berlin/6.jpg 1x, /photography/2017-12-29-berlin/6@2x.jpg 2x, /photography/2017-12-29-berlin/6@3x.jpg 3x" />
+	<img alt="Vic inside a teepee in Grunewald" width="365" height="486" srcset="/photography/2017-12-29-berlin/7.jpg 1x, /photography/2017-12-29-berlin/7@2x.jpg 2x, /photography/2017-12-29-berlin/7@3x.jpg 3x" />
+    <p class="post-image-caption">Grunewald, the forest surrounding Teufelsberg</p>
+</div>
+
+<div class="post-image">
+	<img alt="The approach to Tegel Airport" width="750" height="1000" srcset="/photography/2017-12-29-berlin/8.jpg 1x, /photography/2017-12-29-berlin/8@2x.jpg 2x, /photography/2017-12-29-berlin/8@3x.jpg 3x" />
+    <p class="post-image-caption">The approach to Tegel Airport</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Autumn" width="365" height="487" srcset="/photography/2017-12-29-berlin/9.jpg 1x, /photography/2017-12-29-berlin/9@2x.jpg 2x, /photography/2017-12-29-berlin/9@3x.jpg 3x" />
+	<img alt="Autumn" width="365" height="487" srcset="/photography/2017-12-29-berlin/10.jpg 1x, /photography/2017-12-29-berlin/10@2x.jpg 2x, /photography/2017-12-29-berlin/10@3x.jpg 3x" />
+</div>
+
+Autumn in Berlin is like no other. Slowly the city's vegetation turns ochre, growing brighter and brighter until the city is ablaze in shades of gold.
+
+<div class="post-image">
+	<img alt="Foliage" width="750" height="563" srcset="/photography/2017-12-29-berlin/11.jpg 1x, /photography/2017-12-29-berlin/11@2x.jpg 2x, /photography/2017-12-29-berlin/11@3x.jpg 3x" />
+</div>
+
+<div class="post-image">
+	<img alt="More foliage" width="750" height="563" srcset="/photography/2017-12-29-berlin/12.jpg 1x, /photography/2017-12-29-berlin/12@2x.jpg 2x, /photography/2017-12-29-berlin/12@3x.jpg 3x" />
+    <p class="post-image-caption">Botanischer Garten, inside the world's largest conservatory</p>
+</div>
+
+<div class="post-image">
+	<img alt="Alte Nationalgalerie" width="750" height="1000" srcset="/photography/2017-12-29-berlin/13.jpg 1x, /photography/2017-12-29-berlin/13@2x.jpg 2x, /photography/2017-12-29-berlin/13@3x.jpg 3x" />
+    <p class="post-image-caption">Outside the Alte Nationalgalerie</p>
+</div>
+
+<div class="post-image">
+	<img alt="Origami cranes" width="750" height="1000" srcset="/photography/2017-12-29-berlin/14.jpg 1x, /photography/2017-12-29-berlin/14@2x.jpg 2x, /photography/2017-12-29-berlin/14@3x.jpg 3x" />
+    <p class="post-image-caption">The workshop of the Deutsches Technikmuseum</p>
+</div>
+
+There was a business-side to our brief time there. I did a stint with a startup that underwent incubation with Techstars, an American operation that was expanding into Europe. We spent three months working out of the old GDR government building (in a room formerly used for spying on civilians) and concluded with a big song and dance in front of a theater full of investors.
+
+The company didn't go anywhere in the end, but it was a great experience.
+
+<div class="post-image">
+	<img alt="The Techstars demo day banner hanging above the theatre" width="750" height="1000" srcset="/photography/2017-12-29-berlin/15.jpg 1x, /photography/2017-12-29-berlin/15@2x.jpg 2x, /photography/2017-12-29-berlin/15@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Inside the theatre" width="365" height="487" srcset="/photography/2017-12-29-berlin/16.jpg 1x, /photography/2017-12-29-berlin/16@2x.jpg 2x, /photography/2017-12-29-berlin/16@3x.jpg 3x" />
+	<img alt="Cables" width="365" height="487" srcset="/photography/2017-12-29-berlin/17.jpg 1x, /photography/2017-12-29-berlin/17@2x.jpg 2x, /photography/2017-12-29-berlin/17@3x.jpg 3x" />
+    <p class="post-image-caption">Demo day at HAU Hebbel am Ufer, a performance theatre in Kreuzberg</p>
+</div>
+
+<div class="post-image">
+	<img alt="Our office in the former white house of the German Democratic Republic" width="750" height="563" srcset="/photography/2017-12-29-berlin/18.jpg 1x, /photography/2017-12-29-berlin/18@2x.jpg 2x, /photography/2017-12-29-berlin/18@3x.jpg 3x" />
+    <p class="post-image-caption">Our office in the former white house of the German Democratic Republic</p>
+</div>
+
+We arrived in Berlin in the dead of winter, lived through a glorious summer, and left on the day of the year's first snowfall. A poetic end to a whirlwind adventure.

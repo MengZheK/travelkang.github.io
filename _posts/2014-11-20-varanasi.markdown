@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Varanasi"
+date:   2014-11-20 09:00:00
+categories: india varanasi
+location: Varanasi, India
+tags: varanasi india
+---
+
+Karl Pilkington of "An Idiot Abroad" fame said that in India you're never far from madness. He came to this conclusion as he surveyed a pile of bodies awaiting the funeral pyre in Agra. I made it as far as Varanasi before I witnessed the same thing and I must admit that, as a westerner, I had a morbid curiosity in the process.
+
+A metropolis stretched along the river Ganges, Varanasi is the spiritual capital of India known for its many riverfront ghats. Ghats are stone steps leading down to the water, the most famous among them serving as platforms for the Hindu ritual of holy cremation. In holy cremation, bodies of the deceased are burned in the open air among stacks of wood. A belief is held that this breaks the cycle of reincarnation and thus ends the suffering of the individual. Proximity of the pyre to the river is an indication of status; Those of higher class are able to afford the spots nearest the water while the poor are left to burn further afield. In practical terms the difference is paltry, often only a matter of several metres. Nonetheless this is often a matter of great pride for the Hindu people.
+
+Perhaps the most striking element of the cremations is how little emotion seems to be present. The whole setting is so incredibly matter-of-fact: Fires are lit and each body is burned while a small crowd looks on; Eventually, one of the staff "breaks up" the body and skull with a long stick of bamboo. The next fire is lit soon after. Onwards this process marches, two to three hundred times a day at each ghat.
+
+As well as the pyres, Varanasi is home to a kite-flying mafia. As the sun begins to set, they make their daily pilgrimage to the rooftops to do battle, hoping to entangle and sever one-another's lines. Ascending one of the restaurants along the river, we came across a man in his twenties engaged in a furious battle with a rival kite-flyer a few buildings away. Peering down, we spied his opponent: A boy not older than ten. It wasn't long before our new acquaintance had succumbed to the superiority of his juvenile counterpart and lost his kite. He smiled, reeling his line in. It was then that we noticed the pile of fresh kites resting by his feet.
+
+<div class="post-image">
+	<a href="/photography/2014-11-20-varanasi/1-full.jpg" target="_blank" title="The famed ghats of Varanasi"><img src="/photography/2014-11-20-varanasi/1.jpg" alt="Looking along the ghats of Varanasi lining the river Ganges"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-20-varanasi/2-full.jpg" target="_blank" title="One of several festivals of prayer that occur nightly along the river Ganges"><img src="/photography/2014-11-20-varanasi/2.jpg" alt="One of several festivals of prayer that occur nightly along the river Ganges"></a>
+	<a href="/photography/2014-11-20-varanasi/3-full.jpg" target="_blank" title="As good a place for rest as any in Varanasi"><img src="/photography/2014-11-20-varanasi/3.jpg" alt="As good a place for rest as any in Varanasi"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-20-varanasi/4-full.jpg" target="_blank" title="Candles await sale along the Ganges. Once purchased, buyers release them into the river making for quite an ethereal spectacle"><img src="/photography/2014-11-20-varanasi/4.jpg" alt="Candles await sale along the Ganges. Once purchased, buyers release them into the river making for quite an ethereal spectacle"></a>
+	<a href="/photography/2014-11-20-varanasi/5-full.jpg" target="_blank" title="A packed performance takes place in one of the many ghats lining the Ganges"><img src="/photography/2014-11-20-varanasi/5.jpg" alt="A packed performance takes place in one of the many ghats lining the Ganges"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-20-varanasi/6-full.jpg" target="_blank" title="A throng of onlookers on both land and water attend a nightly festival of prayer"><img src="/photography/2014-11-20-varanasi/6.jpg" alt="A throng of onlookers on both land and water attend a nightly festival of prayer"></a>
+	<a href="/photography/2014-11-20-varanasi/7-full.jpg" target="_blank" title="A soldier of the skies smiles bashfully as I take his photograph. Moments later his line is cut by an opponent"><img src="/photography/2014-11-20-varanasi/7.jpg" alt="A soldier of the skies smiles bashfully as I take his photograph. Moments later his line is cut by an opponent"></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-11-20-varanasi/8-full.jpg" target="_blank" title="The ghats are positively teeming with life; This guy is a prime example of the abundance of animals that graze along the riverfront day and night. I never did get a chance to enquire about the colouring of his horns"><img src="/photography/2014-11-20-varanasi/8.jpg" alt="The ghats are positively teeming with life; This guy is a prime example of the abundance of animals that graze along the riverfront day and night. I never did get a chance to enquire about the colouring of his horns"></a>
+	<a href="/photography/2014-11-20-varanasi/9-full.jpg" target="_blank" title="Many of these bright, holy bins lined the waterfront in Varanasi. I wondered whether my spent water bottles were worthy as I made my deposit"><img src="/photography/2014-11-20-varanasi/9.jpg" alt="Many of these bright, holy bins lined the waterfront in Varanasi. I wondered whether my spent water bottles were worthy as I made my deposit"></a>
+</div>
+
+<div class="post-image">
+	<video autoplay loop width="750">
+		<source src="/video/2014-11-20-varanasi/10.mp4" type="video/mp4">
+	</video>
+	<p class="post-image-caption">
+        Entering the labyrinth: From the street to the balcony of Sunview: A guest house we had the good fortune to discover.
+	</p>
+</div>

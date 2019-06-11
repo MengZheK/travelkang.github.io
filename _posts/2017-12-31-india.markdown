@@ -1,0 +1,121 @@
+---
+layout: post
+title:  "India"
+date:   2017-12-31 10:00:00
+categories: india
+location: Goa, India
+tags: india goa netravali karnataka hampi anegundi chennai
+---
+
+These are from a brief stop we made in Goa on our way home to New Zealand in 2015. Vic studied yoga while I wandered around with a camera. I can't get over India, there's something about it that sucks me in. The intensity, the warmth, and, I guess, the struggle.
+
+<div class="post-image post-image--split">
+	<img alt="Old building off the town square, Anegundi" width="365" height="486" srcset="/photography/2017-12-31-india/1.jpg 1x, /photography/2017-12-31-india/1@2x.jpg 2x, /photography/2017-12-31-india/1@3x.jpg 3x" />
+	<img alt="Two cattle in a shed, Anegundi" width="365" height="487" srcset="/photography/2017-12-31-india/2.jpg 1x, /photography/2017-12-31-india/2@2x.jpg 2x, /photography/2017-12-31-india/2@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="A man sleeping, Anegundi" width="365" height="457" srcset="/photography/2017-12-31-india/3.jpg 1x, /photography/2017-12-31-india/3@2x.jpg 2x, /photography/2017-12-31-india/3@3x.jpg 3x" />
+	<img alt="Face, Anegundi" width="365" height="456" srcset="/photography/2017-12-31-india/4.jpg 1x, /photography/2017-12-31-india/4@2x.jpg 2x, /photography/2017-12-31-india/4@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Thing, Anegundi" width="365" height="487" srcset="/photography/2017-12-31-india/5.jpg 1x, /photography/2017-12-31-india/5@2x.jpg 2x, /photography/2017-12-31-india/5@3x.jpg 3x" />
+	<img alt="Blue door, Anegundi" width="365" height="487" srcset="/photography/2017-12-31-india/6.jpg 1x, /photography/2017-12-31-india/6@2x.jpg 2x, /photography/2017-12-31-india/6@3x.jpg 3x" />
+    <p class="post-image-caption">Anegundi, a very old village near Hampi</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Great big piles of chili drying in the sun" width="365" height="456" srcset="/photography/2017-12-31-india/7.jpg 1x, /photography/2017-12-31-india/7@2x.jpg 2x, /photography/2017-12-31-india/7@3x.jpg 3x" />
+	<img alt="Bags of chili powder" width="365" height="456" srcset="/photography/2017-12-31-india/8.jpg 1x, /photography/2017-12-31-india/8@2x.jpg 2x, /photography/2017-12-31-india/8@3x.jpg 3x" />
+    <p class="post-image-caption">Chili powder factory, Anegundi</p>
+</div>
+
+<div class="post-image">
+	<img alt="Hampi sunset, Hanuman temple" width="750" height="563" srcset="/photography/2017-12-31-india/9.jpg 1x, /photography/2017-12-31-india/9@2x.jpg 2x, /photography/2017-12-31-india/9@3x.jpg 3x" />
+    <p class="post-image-caption">Hampi sunset, Hanuman Temple</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Monkeys, Hanuman Temple, Hampi" width="365" height="487" srcset="/photography/2017-12-31-india/10.jpg 1x, /photography/2017-12-31-india/10@2x.jpg 2x, /photography/2017-12-31-india/10@3x.jpg 3x" />
+	<img alt="Dishes drying, Durga Temple, Hampi" width="365" height="487" srcset="/photography/2017-12-31-india/11.jpg 1x, /photography/2017-12-31-india/11@2x.jpg 2x, /photography/2017-12-31-india/11@3x.jpg 3x" />
+</div>
+
+<div class="post-image">
+	<img alt="Tractor in field, near Anegundi" width="750" height="563" srcset="/photography/2017-12-31-india/12.jpg 1x, /photography/2017-12-31-india/12@2x.jpg 2x, /photography/2017-12-31-india/12@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Calf sleeping in the shade of a great pile of hay" width="365" height="489" srcset="/photography/2017-12-31-india/13.jpg 1x, /photography/2017-12-31-india/13@2x.jpg 2x, /photography/2017-12-31-india/13@3x.jpg 3x" />
+	<img alt="Old fortress gate, Valikilla Cave" width="365" height="487" srcset="/photography/2017-12-31-india/14.jpg 1x, /photography/2017-12-31-india/14@2x.jpg 2x, /photography/2017-12-31-india/14@3x.jpg 3x" />
+    <p class="post-image-caption">Road to Valikilla Cave</p>
+</div>
+
+<div class="post-image">
+	<img alt="Sunset, Hampi" width="750" height="562" srcset="/photography/2017-12-31-india/15.jpg 1x, /photography/2017-12-31-india/15@2x.jpg 2x, /photography/2017-12-31-india/15@3x.jpg 3x" />
+</div>
+
+<div class="post-image">
+	<img alt="Cola Beach, Goa" width="750" height="563" srcset="/photography/2017-12-31-india/16.jpg 1x, /photography/2017-12-31-india/16@2x.jpg 2x, /photography/2017-12-31-india/16@3x.jpg 3x" />
+    <p class="post-image-caption">Cola Beach, Goa</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Fishing boats, Goa" width="365" height="487" srcset="/photography/2017-12-31-india/17.jpg 1x, /photography/2017-12-31-india/17@2x.jpg 2x, /photography/2017-12-31-india/17@3x.jpg 3x" />
+	<img alt="Royal Enfield" width="365" height="485" srcset="/photography/2017-12-31-india/18.jpg 1x, /photography/2017-12-31-india/18@2x.jpg 2x, /photography/2017-12-31-india/18@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Fishing gear" width="365" height="487" srcset="/photography/2017-12-31-india/19.jpg 1x, /photography/2017-12-31-india/19@2x.jpg 2x, /photography/2017-12-31-india/19@3x.jpg 3x" />
+	<img alt="Fishing nets" width="365" height="489" srcset="/photography/2017-12-31-india/20.jpg 1x, /photography/2017-12-31-india/20@2x.jpg 2x, /photography/2017-12-31-india/20@3x.jpg 3x" />
+    <p class="post-image-caption">North of Palolem</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Cabo de Rama, South Goa" width="365" height="487" srcset="/photography/2017-12-31-india/21.jpg 1x, /photography/2017-12-31-india/21@2x.jpg 2x, /photography/2017-12-31-india/21@3x.jpg 3x" />
+	<img alt="Tree scrub burning, Cabo de Rama, South Goa" width="365" height="490" srcset="/photography/2017-12-31-india/22.jpg 1x, /photography/2017-12-31-india/22@2x.jpg 2x, /photography/2017-12-31-india/22@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Fort wall, Cabo de Rama, South Goa" width="365" height="487" srcset="/photography/2017-12-31-india/23.jpg 1x, /photography/2017-12-31-india/23@2x.jpg 2x, /photography/2017-12-31-india/23@3x.jpg 3x" />
+	<img alt="Dry-stone wall in a field, near Cabo de Rama, South Goa" width="365" height="487" srcset="/photography/2017-12-31-india/24.jpg 1x, /photography/2017-12-31-india/24@2x.jpg 2x, /photography/2017-12-31-india/24@3x.jpg 3x" />
+    <p class="post-image-caption">Around Cabo de Rama, South Goa</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Sunset, Patnem beach" width="365" height="487" srcset="/photography/2017-12-31-india/25.jpg 1x, /photography/2017-12-31-india/25@2x.jpg 2x, /photography/2017-12-31-india/25@3x.jpg 3x" />
+	<img alt="Bhudda, Kranti's Shala, Patnem beach" width="365" height="487" srcset="/photography/2017-12-31-india/26.jpg 1x, /photography/2017-12-31-india/26@2x.jpg 2x, /photography/2017-12-31-india/26@3x.jpg 3x" />
+    <p class="post-image-caption">Patnem beach, Goa</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Man reading newspaper, Gaondongrim Village" width="365" height="487" srcset="/photography/2017-12-31-india/32.jpg 1x, /photography/2017-12-31-india/32@2x.jpg 2x, /photography/2017-12-31-india/32@3x.jpg 3x" />
+	<img alt="Man sits for portrait, Gaondongrim Village" width="365" height="486" srcset="/photography/2017-12-31-india/33.jpg 1x, /photography/2017-12-31-india/33@2x.jpg 2x, /photography/2017-12-31-india/33@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Barbershop, Gaondongrim Village" width="365" height="487" srcset="/photography/2017-12-31-india/34.jpg 1x, /photography/2017-12-31-india/34@2x.jpg 2x, /photography/2017-12-31-india/34@3x.jpg 3x" />
+	<img alt="Small child smiles on a bus, Goa" width="365" height="487" srcset="/photography/2017-12-31-india/35.jpg 1x, /photography/2017-12-31-india/35@2x.jpg 2x, /photography/2017-12-31-india/35@3x.jpg 3x" />
+    <p class="post-image-caption">Gaondongrim Village, Goa</p>
+</div>
+
+<div class="post-image">
+	<img alt="Netravali Waterfall, border of Goa & Karnataka" width="750" height="997" srcset="/photography/2017-12-31-india/36.jpg 1x, /photography/2017-12-31-india/36@2x.jpg 2x, /photography/2017-12-31-india/36@3x.jpg 3x" />
+    <p class="post-image-caption">Netravali Waterfall, on the border of Goa & Karnataka</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Indoor coconut farm, near Gaondongrim Village, Goa" width="365" height="487" srcset="/photography/2017-12-31-india/37.jpg 1x, /photography/2017-12-31-india/37@2x.jpg 2x, /photography/2017-12-31-india/37@3x.jpg 3x" />
+	<img alt="Coconut husks, near Gaondongrim Village, Goa" width="365" height="486" srcset="/photography/2017-12-31-india/38.jpg 1x, /photography/2017-12-31-india/38@2x.jpg 2x, /photography/2017-12-31-india/38@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="Tiles, near Gaondongrim Village, Goa" width="365" height="487" srcset="/photography/2017-12-31-india/39.jpg 1x, /photography/2017-12-31-india/39@2x.jpg 2x, /photography/2017-12-31-india/39@3x.jpg 3x" />
+	<img alt="Coffin maker pictured at work, near Loutolim, Goa" width="365" height="487" srcset="/photography/2017-12-31-india/40.jpg 1x, /photography/2017-12-31-india/40@2x.jpg 2x, /photography/2017-12-31-india/40@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="View of cat on a balcony, Boradlands Hotel, Chennai" width="365" height="274" srcset="/photography/2017-12-31-india/42.jpg 1x, /photography/2017-12-31-india/42@2x.jpg 2x, /photography/2017-12-31-india/42@3x.jpg 3x" />
+	<img alt="Vic on the roof of Broadlands Hotel, Chennai" width="365" height="274" srcset="/photography/2017-12-31-india/43.jpg 1x, /photography/2017-12-31-india/43@2x.jpg 2x, /photography/2017-12-31-india/43@3x.jpg 3x" />
+    <p class="post-image-caption">On the roof, Broadlands Hotel, Chennai</p>
+</div>

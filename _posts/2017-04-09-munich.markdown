@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Munich"
+date:   2017-04-09 09:00:00
+categories: germany munich
+location: Munich, Germany
+tags: munich germany
+---
+
+At the end of 2015 Vic & I decided to leave Germany. We wanted to see a bit more of the country before we left so we made a short trip down to Munich. A good friend of ours, Tania, came along too.
+
+We spent about as much time on the bus as we did on the ground; it was a days journey both ways. We were warned this would be grim but in the end it was great. Gas stations in Germany sell booze so there was no shortage of wine and we had a spectacular view of autumn over the countryside.
+
+We only spent two days in Munich so I'm loathe to say anything too bad about it — but compared to Berlin it seemed like a serious, sterile place. Its saving grace was its proximity to the Bavarian Alps. We took a train out to Neuschwanstein, the famed Disney castle, and on the way out got a glimpse of Germany's postcard countryside: farming villages, rolling green fields, and big brown cows.
+
+<div class="post-image">
+	<img alt="" width="750" height="563" srcset="/photography/2015-11-01-munich/1.jpg 1x, /photography/2015-11-01-munich/1@2x.jpg 2x, /photography/2015-11-01-munich/1@3x.jpg 3x" />
+</div>
+
+<div class="post-image">
+	<img alt="" width="750" height="563" srcset="/photography/2015-11-01-munich/1.1.jpg 1x, /photography/2015-11-01-munich/1.1@2x.jpg 2x, /photography/2015-11-01-munich/1.1@3x.jpg 3x" />
+    <p class="post-image-caption">Vic & Tania, with the Alpsee lake in the background</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="" width="365" height="487" srcset="/photography/2015-11-01-munich/2.jpg 1x, /photography/2015-11-01-munich/2@2x.jpg 2x, /photography/2015-11-01-munich/2@3x.jpg 3x" />
+	<img alt="" width="365" height="489" srcset="/photography/2015-11-01-munich/3.jpg 1x, /photography/2015-11-01-munich/3@2x.jpg 2x, /photography/2015-11-01-munich/3@3x.jpg 3x" />
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="" width="365" height="488" srcset="/photography/2015-11-01-munich/4.jpg 1x, /photography/2015-11-01-munich/4@2x.jpg 2x, /photography/2015-11-01-munich/4@3x.jpg 3x" />
+	<img alt="" width="365" height="487" srcset="/photography/2015-11-01-munich/5.jpg 1x, /photography/2015-11-01-munich/5@2x.jpg 2x, /photography/2015-11-01-munich/5@3x.jpg 3x" />
+    <p class="post-image-caption">Neuschwanstein, the inspiration for Disney's castle in "Sleeping Beauty"</p>
+</div>
+
+The castle itself was something of a fake. It was built by King Ludwig II of Bavaria in the 1800s to look like something much older. He ran out of money halfway through so much of the interior was left&nbsp;unfinished.
+
+<div class="post-image">
+	<img alt="" width="750" height="565" srcset="/photography/2015-11-01-munich/6.jpg 1x, /photography/2015-11-01-munich/6@2x.jpg 2x, /photography/2015-11-01-munich/6@3x.jpg 3x" />
+    <p class="post-image-caption">Hohenschwangau, another fantasty castle not far from Neuschwanstein</p>
+</div>
+
+<div class="post-image post-image--split">
+	<img alt="" width="365" height="486" srcset="/photography/2015-11-01-munich/7.jpg 1x, /photography/2015-11-01-munich/7@2x.jpg 2x, /photography/2015-11-01-munich/7@3x.jpg 3x" />
+	<img alt="" width="365" height="487" srcset="/photography/2015-11-01-munich/8.jpg 1x, /photography/2015-11-01-munich/8@2x.jpg 2x, /photography/2015-11-01-munich/8@3x.jpg 3x" />
+</div>
+
+Back in the city, there's a spot where a large canal passes under a narrow bridge. This forms a fierce wave that's big enough to surf, and many surfers try their luck on it. The water flows through at such a pace that the bails are fantastic but no-one ever seems to get hurt. Munich is about 300 miles from the nearest ocean so I can imagine it's a welcome fix for the locals.
+
+<div class="post-image post-image--split">
+	<img alt="" width="365" height="487" srcset="/photography/2015-11-01-munich/9.jpg 1x, /photography/2015-11-01-munich/9@2x.jpg 2x, /photography/2015-11-01-munich/9@3x.jpg 3x" />
+	<img alt="" width="365" height="487" srcset="/photography/2015-11-01-munich/10.jpg 1x, /photography/2015-11-01-munich/10@2x.jpg 2x, /photography/2015-11-01-munich/10@3x.jpg 3x" />
+    <p class="post-image-caption">Surf spot on the Eisbach canal in Munich</p>
+</div>
+
+
+We had a good time but I came away with a greater appreciation for Berlin. Maybe we had done well to spend most of our time there.

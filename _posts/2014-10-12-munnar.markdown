@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Munnar"
+date:   2014-10-12 09:00:00
+categories: munnar india
+location: Munnar, India
+tags: munnar india
+---
+
+After a stint in the tea plantations of Sri Lanka, Munnar felt very familiar though it was missing a key ingredient or two. The bus ride up earned a place on the highlight reel: a winding 5-hour ascent, breezing past waterfalls and monkeys alike. Amidst the mist and monoxide, thousands of acres of tea &amp; spice plantations buffered the damp village on all sides; Here was a place where it did not take long to feel drenched down to the very soul.
+
+Embarking on a guided trek through the hinterland, I was accompanied by an upbeat crowd of Germans, Brits and Israelis all marching merrily into the hills. As the day wore on, however, a dark and brooding silence fell upon our intrepid platoon. Exhaustion had us firmly in its grip and even the discovery of Elephant tracks was incapable of breathing more than a moments energy into us. Like the end of a particularly nasty game of Monopoly, we began to despise our jubilant guide as if he held hotels across the board. Seemingly unaffected by the arduous, knee-clobbering descent he had led us on, he chirped on about this spice and that while we longed for rest and sustenance. At the walks end we sat in perpetual silence, collectively defeated, as food was served.
+
+I moved on from Munnar quicker, perhaps, than one should. Having only intended to visit the south briefly, I had accidentally spent more than a month there. The time had come to make my way north.
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-10-12-munnar/2-full.jpg" target="_blank" title="Firewood stacked high in a shed deep within a tea plantation"><img src="/photography/2014-10-12-munnar/2.jpg" alt="Firewood stacked high in a shed deep within a tea plantation" /></a>
+	<a href="/photography/2014-10-12-munnar/3-full.jpg" target="_blank" title="Every 12 years, this flower blooms in the hills surrounding Munnar"><img src="/photography/2014-10-12-munnar/3.jpg" alt="Every 12 years, this flower blooms in the hills surrounding Munnar" /></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-10-12-munnar/4-full.jpg" target="_blank" title="Hiking down through the clouds"><img src="/photography/2014-10-12-munnar/4.jpg" alt="Hiking down through the clouds" /></a>
+	<a href="/photography/2014-10-12-munnar/5-full.jpg" target="_blank" title="One of the many botanical delights on display in a tour of the spice plantations"><img src="/photography/2014-10-12-munnar/5.jpg" alt="One of the many botanical delights on display in a tour of the spice plantations" /></a>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-10-12-munnar/6-full.jpg" target="_blank" title="The view from Top Station, a hilltop overlooking the border between Kerala and Tamil Nadu"><img src="/photography/2014-10-12-munnar/6.jpg" alt="The view from Top Station, a hilltop overlooking the border between Kerala and Tamil Nadu" /></a>
+</div>
+
+<div class="post-image">
+	<video autoplay loop width="750">
+		<source src="/video/2014-10-12-munnar/1.mp4" type="video/mp4">
+	</video>
+	<p class="post-image-caption">
+		A timelapse of the clouds rolling off a nearby cliff at Top station, an outlook on the border between Kerala and Tamil Nadu
+	</p>
+</div>

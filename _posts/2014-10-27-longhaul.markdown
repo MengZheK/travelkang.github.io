@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "A Long Haul North"
+date:   2014-10-27 09:00:00
+categories: aurangabad india
+location: Aurangabad, India
+tags: aurangabad ellora jodhpur india
+---
+
+Tonight marks the beginning of a course in Vipassana meditation I have chosen to undergo. Part of the package is 10 days without communication of any kind and therefore radio silence for my journaling. Before I begin I wanted to share a brief photo-essay of the 4-day journey up to Jodhpur, Rajasthan.
+
+With a brief intermission to explore the famed caves of Ellora, it was a marathon spread between sleeper buses, trains and a final stint in "general", the unassigned seating option in passenger trains where I experienced a new blend of Indian bedlam. Aided at every step of the way by welcoming families, humble individuals and patient tellers, I cannot speak highly enough of the warm character shown to me by the Indian people. 
+
+<div class="post-image">
+	<a href="/photography/2014-10-27-longhaul/1-full.jpg" target="_blank" title="Bibi Ka Maqbara is often considered the little brother of the Taj Mahal for its striking resemblance. It was built late in the 17th century as a memorial for Mughal Emperor Aurangzeb's first wife, Dilras Banu Begum."><img src="/photography/2014-10-27-longhaul/1.jpg" alt="Bibi Ka Maqbara is often considered the little brother of the Taj Mahal for its striking resemblance. It was built late in the 17th century as a memorial for Mughal Emperor Aurangzeb's first wife, Dilras Banu Begum." /></a>
+	<p class="post-image-caption">
+		Bibi Ka Maqbara is often considered the little brother of the Taj Mahal for its striking resemblance. It was built late in the 17th century as a memorial for Mughal Emperor Aurangzeb's first wife, Dilras Banu Begum.
+	</p>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-10-27-longhaul/2-full.jpg" target="_blank" title="Exquisite marble carvings line the interior of Bibi Ka Maqbara"><img src="/photography/2014-10-27-longhaul/2.jpg" alt="Exquisite marble carvings line the interior of Bibi Ka Maqbara" /></a>
+	<a href="/photography/2014-10-27-longhaul/3-full.jpg" target="_blank" title="One of the Ellora cave temples: The stunning 'Carpenters Cave', a Buddhist cathedral and acoustic masterpiece thought to have been carved in the 8th century"><img src="/photography/2014-10-27-longhaul/3.jpg" alt="One of the Ellora cave temples: The stunning 'Carpenters Cave', a Buddhist cathedral and acoustic masterpiece thought to have been carved in the 8th century" /></a>
+	<p class="post-image-caption">
+		To the left, exquisite marble carvings line the interior of Bibi Ka Maqbara. To the right, one of the Ellora cave temples: The stunning 'Carpenters Cave', a Buddhist cathedral and acoustic masterpiece thought to have been carved in the 8th century. 
+	</p>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-10-27-longhaul/4-full.jpg" target="_blank" title="Piled into a train with a wedding party en route to Jodhpur. Arms, legs and children strewn everywhere and, though not visible in the photograph, people packed into the rafters above our heads as well"><img src="/photography/2014-10-27-longhaul/4.jpg" alt="Piled into a train with a wedding party en route to Jodhpur. Arms, legs and children strewn everywhere and, though not visible in the photograph, people packed into the rafters above our heads as well" /></a>
+	<p class="post-image-caption">
+		Piled into a train with a wedding party en route to Jodhpur. Arms, legs and children strewn everywhere and, though not visible in the photograph, people packed into the rafters above our heads as well.
+	</p>
+</div>

@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Malaysia"
+date:   2014-09-03 09:54:05
+categories: malaysia kuala-lumpur
+location: Kuala lumpur, Malaysia
+tags: kuala-lumpur malaysia
+---
+
+On the way through to India, I stopped off in Kuala lumpur for a day: a chaotic city filled with people that are incredibly warm &amp; welcoming. The air was thick with the smell of clove cigarrettes and the heat bordered on unbearable as I explored it's curious mix of modernity & antiquity. The city is littered with many beautiful, new skyscrapers which loom over the fractal back alleys and open-air meat markets of Chow Kit and the like.
+
+I was glad to have made the effort to check it out but after hiking around the city in an almost perpetual state of sweat all day I felt immense pity for the poor souls seated next to me on the flight to Hyderabad.
+
+<div class="post-image post-image--split">
+    <a href="/photography/2014-09-03-malaysia/IMG_0051-full.jpg" title="Some ruins found in the city centre benath the KL Tower" target="_blank">
+    	<img src="/photography/2014-09-03-malaysia/IMG_0051.jpg" alt="Some ruins found in the city centre benath the KL Tower" />
+    </a>
+    <a href="/photography/2014-09-03-malaysia/IMG_0055-full.jpg" title="Seeking refuge from the heat near Merdeka square" target="_blank">
+    	<img src="/photography/2014-09-03-malaysia/IMG_0055.jpg" alt="Seeking refuge from the heat near Merdeka square" />
+    </a>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="/photography/2014-09-03-malaysia/IMG_0057-full.jpg" title="The KL Tower stands tall over the city" target="_blank">
+    	<img src="/photography/2014-09-03-malaysia/IMG_0057.jpg" alt="The KL Tower stands tall over the city" />
+    </a>
+    <a href="/photography/2014-09-03-malaysia/IMG_0056-full.jpg" title="A crowded store somewhere in the city centre" target="_blank">
+    	<img src="/photography/2014-09-03-malaysia/IMG_0056.jpg" alt="A crowded store somewhere in the city centre" />
+    </a>
+</div>
+
+<div class="post-image">
+    <a href="/photography/2014-09-03-malaysia/IMG_0046-full.jpg" title="Street art found outside a bar in the Bukit Bintang district" target="_blank">
+    	<img src="/photography/2014-09-03-malaysia/IMG_0046.jpg" alt="Street art found outside a bar in the Bukit Bintang district" />
+    </a>
+</div>

@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Kochi"
+date:   2014-10-10 09:00:00
+categories: kochi india
+location: Kochi, India
+tags: kochi india
+---
+
+It's a rare occasion that you stumble upon graffiti of merit in India, though if you started in Kochi you would find this hard to believe. Fort Kochi, nestled just off the coast of the main metropolitan area, serves as an almost Shoreditch-like canvas for artists; Evidence of this is littered everywhere and, arriving off the back of a hazy night's sleep in a Sri Lankan airport lounge, I was pleasantly surprised to find such a colourful scene.
+
+Galleries serve art with a distinctive eastern influence and curators will eagerly photograph you as you peruse their wares. In the hopes of collecting a commission, rickshaw drivers will fall over themselves for the opportunity to drop you at one of the many art stores nearby.
+
+More than just an outpost of creativity, Kochi serves as the gateway to Kerala: a lush, green state along the southwest coast of India. Hundreds of miles of palm trees &amp; tranquil backwaters beckon and it's hard to argue that the experience of punting along the myriad canals isn't wonderful.
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-10-10-kochi/1-full.jpg" target="_blank" title="Graffiti on Princess street, Fort Kochi"><img src="/photography/2014-10-10-kochi/1.jpg" alt="Graffiti on Princess Street, Fort Kochi" /></a>
+	<a href="/photography/2014-10-10-kochi/2-full.jpg" target="_blank" title="Graffiti on Bazaar street, Fort Kochi"><img src="/photography/2014-10-10-kochi/2.jpg" alt="Graffiti on Bazaar street, Fort Kochi" /></a>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-10-10-kochi/4-full.jpg" target="_blank" title="A face peers out onto Burger street at night in Fort Kochi"><img src="/photography/2014-10-10-kochi/4.jpg" alt="A face peers out onto Burger street at night in Fort Kochi" /></a>
+	<a href="/photography/2014-10-10-kochi/3-full.jpg" target="_blank" title="A sculpture depicting the painted face of a Kathakali actor"><img src="/photography/2014-10-10-kochi/3.jpg" alt="A sculpture depicting the painted face of a Kathakali actor" /></a>
+</div>
+
+<div class="post-image">
+	<a href="/photography/2014-10-10-kochi/5-full.jpg" target="_blank" title="Chinese fishing nets at the entrance to the Cochi harbour"><img src="/photography/2014-10-10-kochi/5.jpg" alt="Chinese fishing nets at the entrance to the Cochi harbour" /></a>
+	<p class="post-image-caption">
+		Chinese fishing nets line the entrance to the harbour in Kochi. These enormous, spider-like structures take a crew of people to operate them as they are dipped into the ocean to retrieve fish sold on the spot to locals and foreigners.
+	</p>
+</div>
+
+<div class="post-image post-image--split">
+	<a href="/photography/2014-10-10-kochi/7-full.jpg" target="_blank" title="Punting down the tranquil backwaters in Kerala"><img src="/photography/2014-10-10-kochi/7.jpg" alt="Punting down the tranquil backwaters in Kerala" /></a>
+	<a href="/photography/2014-10-10-kochi/8-full.jpg" target="_blank" title="At a cultural centre in Fort Kochi, a man plays his Sitar skillfully"><img src="/photography/2014-10-10-kochi/8.jpg" alt="At a cultural centre in Fort Kochi, a man plays his Sitar skillfully" w/></a>
+</div>
